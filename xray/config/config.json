@@ -34,7 +34,7 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "Your-U-U-ID-HERE",
+                        "id": "055ad7b2-b3bc-4737-94f9-4f1c3263f152",
                         "flow": "xtls-rprx-direct",
                         "level": 0,
                         "email": "admin@yourdomain.com"
@@ -43,7 +43,7 @@
                 "decryption": "none",
                 "fallbacks": [
                     {
-                        "dest": "nginx:8080"
+                        "dest": "nginx:30001"
                     }
                 ]
             },
