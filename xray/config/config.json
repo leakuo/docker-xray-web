@@ -36,7 +36,7 @@
                     {
                         "id": "055ad7b2-b3bc-4737-94f9-4f1c3263f152",
                         "flow": "xtls-rprx-direct",
-                        "level": 0,
+                        "level": 0
                        
                     }
                 ],
@@ -73,8 +73,7 @@
              "settings": {
                   "clients": [
                          {
-                              "id": "055ad7b2-b3bc-4737-94f9-4f1c3263f152",
-                              
+                              "id": "055ad7b2-b3bc-4737-94f9-4f1c3263f152"                              
                          }
                       ],
                     "decryption": "none"
