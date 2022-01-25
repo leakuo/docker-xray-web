@@ -34,7 +34,7 @@
             "settings": {
                 "clients": [
                     {
-                        "id": "055ad7b2-b3bc-4737-94f9-4f1c3263f152",
+                        "id": "uuid",
                         "flow": "xtls-rprx-direct"                                               
                     }
                 ],
@@ -71,7 +71,7 @@
              "settings": {
                   "clients": [
                          {
-                              "id": "055ad7b2-b3bc-4737-94f9-4f1c3263f152"                              
+                              "id": "uuid"                              
                          }
                       ],
                     "decryption": "none"
